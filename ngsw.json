@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1664366808002,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.0e71d65cdcf631ba.js",
+        "/manifest.webmanifest",
+        "/polyfills.2f6e5a7564b45ad8.js",
+        "/runtime.253918c472fdf2f4.js",
+        "/styles.3fcaaa52a1131e7c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/catalog/eco/shkaf/eco1-240.jpg",
+        "/assets/img/catalog/eco/shkaf/eco2-240.jpg",
+        "/assets/img/catalog/etc/doors-num-var-2.jpg",
+        "/assets/img/catalog/etc/doors-num-var-3.jpg",
+        "/assets/img/catalog/etc/doors-num-var-4.jpg",
+        "/assets/img/menu/content/ECO1-1.jpg",
+        "/assets/img/menu/content/G2-2150.jpg",
+        "/assets/img/menu/content/L2-2150.jpg",
+        "/assets/img/menu/content/TV1.jpg",
+        "/assets/img/menu/content/U2-2150.jpg",
+        "/assets/img/menu/content/amalgama.jpg",
+        "/assets/img/menu/content/combi.jpg",
+        "/assets/img/menu/content/h1-1.jpg",
+        "/assets/img/menu/content/k1-1.jpg",
+        "/assets/img/menu/content/k1-1p.jpg",
+        "/assets/img/menu/content/materials.jpg",
+        "/assets/img/menu/content/oracal.jpg",
+        "/assets/img/menu/content/p-215-eco.jpg",
+        "/assets/img/menu/content/p-215-premium.jpg",
+        "/assets/img/menu/content/pesok.jpg",
+        "/assets/img/menu/content/photo.jpg",
+        "/assets/img/menu/shkaf/eco/eco1-240.jpg",
+        "/assets/img/menu/shkaf/eco/eco2-240.jpg",
+        "/assets/img/menu/shkaf/eco/eco3-240.jpg",
+        "/assets/img/menu/shkaf/eco/eco4-240.jpg",
+        "/assets/img/ui/logo-header.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "a2d079ffcf18a7b3223223a3bf853437a911341e",
+    "/assets/icons/icon-144x144.png": "6679fb7a233fd72aaa6d0c34f4e523623d7569b0",
+    "/assets/icons/icon-152x152.png": "1e20472942a5166c5639e52cafa965d544cc4a14",
+    "/assets/icons/icon-192x192.png": "3858abc9bd7e80eedf23a9a42a2622337c6dfe6e",
+    "/assets/icons/icon-384x384.png": "0f15671d9241bd86242023ad47e6a0e9b17c926d",
+    "/assets/icons/icon-512x512.png": "73377201962d1f91721316cdc4f027e10866e0bc",
+    "/assets/icons/icon-72x72.png": "1e06ee18cd0c902c0520e9b8dba53fe322dc511e",
+    "/assets/icons/icon-96x96.png": "82873529b4b767d5fdc5957256ac88e13e26a0da",
+    "/assets/img/catalog/eco/shkaf/eco1-240.jpg": "9107f00e8762f119a02197d6977f76878acd2969",
+    "/assets/img/catalog/eco/shkaf/eco2-240.jpg": "b8656c2cff03b7195c5badbdd181ecd2f397089a",
+    "/assets/img/catalog/etc/doors-num-var-2.jpg": "d64622f160e0be597fb3cd81f09ff7abc0062ce0",
+    "/assets/img/catalog/etc/doors-num-var-3.jpg": "0644f04bd0d8180577211e5853d914b95074e9d2",
+    "/assets/img/catalog/etc/doors-num-var-4.jpg": "decdbf4daed3b40e02d70e1667b91caab9c22d59",
+    "/assets/img/menu/content/ECO1-1.jpg": "6159b09f3d4a0d15d04f3b0a6e4c99b5ff36cf9f",
+    "/assets/img/menu/content/G2-2150.jpg": "5106948f35b50b138f83a436e5e0c379f5471a8e",
+    "/assets/img/menu/content/L2-2150.jpg": "fada867a205fd5ee58d75a202edb27fe607b1fcb",
+    "/assets/img/menu/content/TV1.jpg": "e33b659c37252d70ba8fa86e3889d2707349bb78",
+    "/assets/img/menu/content/U2-2150.jpg": "3666282460dfce6f4694294b6d14a9b1a49185f8",
+    "/assets/img/menu/content/amalgama.jpg": "7e897b85038d28d6e55e1871d3a3c72d79591859",
+    "/assets/img/menu/content/combi.jpg": "978a7699ac2044c911a6906ef13d6bb05843d001",
+    "/assets/img/menu/content/h1-1.jpg": "312f439d550583af79f71a7d02269be28173bb07",
+    "/assets/img/menu/content/k1-1.jpg": "1c0a3c02f0cba8f9b99adb8fadb616c37fde1b26",
+    "/assets/img/menu/content/k1-1p.jpg": "73b608ac1da04c6933974659a1a6a387ac93659b",
+    "/assets/img/menu/content/materials.jpg": "590a8573803bfd36eb81bc0d063eb9f479b7d8e6",
+    "/assets/img/menu/content/oracal.jpg": "1674ef6eb4d1febc33972a4de708b6ef043c22c7",
+    "/assets/img/menu/content/p-215-eco.jpg": "28353e204884c56a0173ca67200a406a560aa2c6",
+    "/assets/img/menu/content/p-215-premium.jpg": "a7cca4b58d9d4f6c2e82407a7c1d011d987f81c2",
+    "/assets/img/menu/content/pesok.jpg": "36dad9941492fc3e3d066bc31655b2c01dd68972",
+    "/assets/img/menu/content/photo.jpg": "c63d165c1ca7b95ac497b4af2c6b6ca948897ac0",
+    "/assets/img/menu/shkaf/eco/eco1-240.jpg": "bd71028c0f28b2d7ec75252cd0411e2d01852f0f",
+    "/assets/img/menu/shkaf/eco/eco2-240.jpg": "5b7947a28a5c01ba1853d7d54cc8b2242588a94b",
+    "/assets/img/menu/shkaf/eco/eco3-240.jpg": "c462c3e9146f0d6bfb93f1dc7b0f0116a6bcfc4b",
+    "/assets/img/menu/shkaf/eco/eco4-240.jpg": "adce1f364d3bc93f15b453c7bcb1408e98d478c4",
+    "/assets/img/ui/logo-header.png": "14fb4f06020cac9339c6769ec73e78de59edea13",
+    "/favicon.ico": "1166bd03f0149df756755e5a847980157b8ed1ba",
+    "/index.html": "af3dfa0d17d7eece4c86f6e6d3ec1b9eb1cc8ea2",
+    "/main.0e71d65cdcf631ba.js": "ba57ba5c436e7dcfb07c62c52a25ad71958db445",
+    "/manifest.webmanifest": "5a73e3a0404e9100595413997fed68fee0e54027",
+    "/polyfills.2f6e5a7564b45ad8.js": "3fe34883936d6fa848acd01f2e1cbb9d41003701",
+    "/runtime.253918c472fdf2f4.js": "1b7e5b3021be0be3a346d6bf8da6cc8a045d5835",
+    "/styles.3fcaaa52a1131e7c.css": "d6f02b6a4829e9577a6925212c9226abcd6c2f38"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
