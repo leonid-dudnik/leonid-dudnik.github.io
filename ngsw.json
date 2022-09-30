@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1664366808002,
+  "timestamp": 1664546365560,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.0e71d65cdcf631ba.js",
+        "/main.7ad466e3746b246b.js",
         "/manifest.webmanifest",
         "/polyfills.2f6e5a7564b45ad8.js",
         "/runtime.253918c472fdf2f4.js",
-        "/styles.3fcaaa52a1131e7c.css"
+        "/styles.ae1070ed9a8dd113.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "/MarckScript-Regular.25867acc3e0a0999.ttf",
+        "/assets/fonts/MarckScript-Regular.ttf",
+        "/assets/fonts/OFL.txt",
+        "/assets/fonts/fonts.css",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -58,6 +62,10 @@
         "/assets/img/menu/content/p-215-premium.jpg",
         "/assets/img/menu/content/pesok.jpg",
         "/assets/img/menu/content/photo.jpg",
+        "/assets/img/menu/main-menu-btn-decor.jpg",
+        "/assets/img/menu/main-menu-btn-eco.jpg",
+        "/assets/img/menu/main-menu-btn-furniture.jpg",
+        "/assets/img/menu/main-menu-btn-premium.jpg",
         "/assets/img/menu/shkaf/eco/eco1-240.jpg",
         "/assets/img/menu/shkaf/eco/eco2-240.jpg",
         "/assets/img/menu/shkaf/eco/eco3-240.jpg",
@@ -69,6 +77,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/MarckScript-Regular.25867acc3e0a0999.ttf": "254431c73407e4cd8f02055223ed812d20a99414",
+    "/assets/fonts/MarckScript-Regular.ttf": "254431c73407e4cd8f02055223ed812d20a99414",
+    "/assets/fonts/OFL.txt": "e1c5bfcaa5b24c0180081654520076395c43acc9",
+    "/assets/fonts/fonts.css": "42b1634653b009de67c03f464b86607c9cebb065",
     "/assets/icons/icon-128x128.png": "a2d079ffcf18a7b3223223a3bf853437a911341e",
     "/assets/icons/icon-144x144.png": "6679fb7a233fd72aaa6d0c34f4e523623d7569b0",
     "/assets/icons/icon-152x152.png": "1e20472942a5166c5639e52cafa965d544cc4a14",
@@ -98,18 +110,22 @@
     "/assets/img/menu/content/p-215-premium.jpg": "a7cca4b58d9d4f6c2e82407a7c1d011d987f81c2",
     "/assets/img/menu/content/pesok.jpg": "36dad9941492fc3e3d066bc31655b2c01dd68972",
     "/assets/img/menu/content/photo.jpg": "c63d165c1ca7b95ac497b4af2c6b6ca948897ac0",
+    "/assets/img/menu/main-menu-btn-decor.jpg": "5a7f5e22652b8d5e57e2808ab24dcc7674748394",
+    "/assets/img/menu/main-menu-btn-eco.jpg": "1131f5ad1bd651112ebb5c683a2403c7843d320e",
+    "/assets/img/menu/main-menu-btn-furniture.jpg": "f11fed7b63e22a91d8f2a3aefb49df90c52c7840",
+    "/assets/img/menu/main-menu-btn-premium.jpg": "45bb4d98a77d57978a29c51ed126a1124829a8b8",
     "/assets/img/menu/shkaf/eco/eco1-240.jpg": "bd71028c0f28b2d7ec75252cd0411e2d01852f0f",
     "/assets/img/menu/shkaf/eco/eco2-240.jpg": "5b7947a28a5c01ba1853d7d54cc8b2242588a94b",
     "/assets/img/menu/shkaf/eco/eco3-240.jpg": "c462c3e9146f0d6bfb93f1dc7b0f0116a6bcfc4b",
     "/assets/img/menu/shkaf/eco/eco4-240.jpg": "adce1f364d3bc93f15b453c7bcb1408e98d478c4",
     "/assets/img/ui/logo-header.png": "14fb4f06020cac9339c6769ec73e78de59edea13",
     "/favicon.ico": "1166bd03f0149df756755e5a847980157b8ed1ba",
-    "/index.html": "af3dfa0d17d7eece4c86f6e6d3ec1b9eb1cc8ea2",
-    "/main.0e71d65cdcf631ba.js": "ba57ba5c436e7dcfb07c62c52a25ad71958db445",
+    "/index.html": "1903b9ebd5a4f2f151f52ddd955a33dd00d0994f",
+    "/main.7ad466e3746b246b.js": "f0c09ea5a6ddccdec1718db0108f31bcc3144efc",
     "/manifest.webmanifest": "5a73e3a0404e9100595413997fed68fee0e54027",
     "/polyfills.2f6e5a7564b45ad8.js": "3fe34883936d6fa848acd01f2e1cbb9d41003701",
     "/runtime.253918c472fdf2f4.js": "1b7e5b3021be0be3a346d6bf8da6cc8a045d5835",
-    "/styles.3fcaaa52a1131e7c.css": "d6f02b6a4829e9577a6925212c9226abcd6c2f38"
+    "/styles.ae1070ed9a8dd113.css": "3c611662ecdf9f3169283cd4b9e3c4dbd773d101"
   },
   "navigationUrls": [
     {
