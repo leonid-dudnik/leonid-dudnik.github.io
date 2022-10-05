@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1664966007690,
+  "timestamp": 1664968171142,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.3106b2dd29399844.js",
+        "/main.85538bf9f8083f1c.js",
         "/manifest.webmanifest",
         "/polyfills.2f6e5a7564b45ad8.js",
         "/runtime.253918c472fdf2f4.js",
@@ -150,8 +150,8 @@
     "/assets/img/menu/shkaf/eco/eco4-240.jpg": "adce1f364d3bc93f15b453c7bcb1408e98d478c4",
     "/assets/img/ui/logo-header.png": "213f15b14b85eb0d82a65e2de1c77d1c5fb324d9",
     "/favicon.ico": "1166bd03f0149df756755e5a847980157b8ed1ba",
-    "/index.html": "45e80c5051414a3b6f9a637d5fe2ceb7f22d64cd",
-    "/main.3106b2dd29399844.js": "c06bfbe04fac7b79c577099536217ee234351705",
+    "/index.html": "783072eef060ccc35b3590fbe12ac29fa949039e",
+    "/main.85538bf9f8083f1c.js": "11af72ca8f1cdc664cb1e7e1ba4e8e3b19f9c9e0",
     "/manifest.webmanifest": "5a73e3a0404e9100595413997fed68fee0e54027",
     "/polyfills.2f6e5a7564b45ad8.js": "3fe34883936d6fa848acd01f2e1cbb9d41003701",
     "/runtime.253918c472fdf2f4.js": "1b7e5b3021be0be3a346d6bf8da6cc8a045d5835",
