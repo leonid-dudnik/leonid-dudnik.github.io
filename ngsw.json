@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1664968171142,
+  "timestamp": 1665153945986,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.85538bf9f8083f1c.js",
+        "/main.1ab7f0aab6fc3024.js",
         "/manifest.webmanifest",
         "/polyfills.2f6e5a7564b45ad8.js",
         "/runtime.253918c472fdf2f4.js",
@@ -133,10 +133,10 @@
     "/assets/img/menu/eco/eco4.png": "ef898e808088d1ed098a5bcff6062b1c2912f42e",
     "/assets/img/menu/eco/k1-1.png": "a197350f543b365491c4f2c9d706cfff0638aa27",
     "/assets/img/menu/eco/k2-1.png": "2be6d82cb1b5510e8a3240014e99159bc2a2073f",
-    "/assets/img/menu/eco/k3-1.png": "6702c334021b8bc783a4c0b184ce4af1ee30fdc4",
-    "/assets/img/menu/eco/k4-1.png": "1bc832e71cb306345fc9186ca16d00edfabc301c",
-    "/assets/img/menu/eco/k5-1.png": "df36a2fe3739ad8fba3d30871907e60470f6ef5c",
-    "/assets/img/menu/eco/k6-1.png": "b666dd3c5ef5961dbdbc2fc1cf1f0bde9bb9bd4e",
+    "/assets/img/menu/eco/k3-1.png": "d369b5fa13325f3520ab6e92678173fe6f0056ae",
+    "/assets/img/menu/eco/k4-1.png": "4fe26161a64f8991d7503e4267825722519616ac",
+    "/assets/img/menu/eco/k5-1.png": "78eab1da557647796f06c8c56bd13edcd5a659da",
+    "/assets/img/menu/eco/k6-1.png": "5cab1f219a222114993b1bde4338e2289d2b4416",
     "/assets/img/menu/eco/k7.png": "97fd2ce18103553a6459d55dbcce32867a0e61fc",
     "/assets/img/menu/eco/p1-215-eco.png": "dcd52f8ceca75f2174828de1fb2913802649712e",
     "/assets/img/menu/eco/p2-215-eco.png": "c9eb5b4b88a6262350c84914304e7e00b410a80b",
@@ -150,8 +150,8 @@
     "/assets/img/menu/shkaf/eco/eco4-240.jpg": "adce1f364d3bc93f15b453c7bcb1408e98d478c4",
     "/assets/img/ui/logo-header.png": "213f15b14b85eb0d82a65e2de1c77d1c5fb324d9",
     "/favicon.ico": "1166bd03f0149df756755e5a847980157b8ed1ba",
-    "/index.html": "783072eef060ccc35b3590fbe12ac29fa949039e",
-    "/main.85538bf9f8083f1c.js": "11af72ca8f1cdc664cb1e7e1ba4e8e3b19f9c9e0",
+    "/index.html": "5ee28303ba3a235ca68962456c0e3fcb5bde39b3",
+    "/main.1ab7f0aab6fc3024.js": "8a07be893275083725742303ee052d04a1d7cac6",
     "/manifest.webmanifest": "5a73e3a0404e9100595413997fed68fee0e54027",
     "/polyfills.2f6e5a7564b45ad8.js": "3fe34883936d6fa848acd01f2e1cbb9d41003701",
     "/runtime.253918c472fdf2f4.js": "1b7e5b3021be0be3a346d6bf8da6cc8a045d5835",
