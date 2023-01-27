@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1674755845235,
+  "timestamp": 1674833688915,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.36e8b1f050362c12.js",
+        "/main.a18c2f8c3ca75a95.js",
         "/manifest.webmanifest",
         "/polyfills.2f6e5a7564b45ad8.js",
         "/runtime.253918c472fdf2f4.js",
@@ -99,7 +99,9 @@
         "/assets/img/menu/etc/dsp-venge.jpg",
         "/assets/img/menu/etc/dsp-white.jpg",
         "/assets/img/menu/etc/dsp-yablonya.jpg",
+        "/assets/img/menu/etc/leg-100.jpg",
         "/assets/img/menu/etc/leg-27.jpg",
+        "/assets/img/menu/etc/leg-47.jpg",
         "/assets/img/menu/etc/profile-bronze.jpg",
         "/assets/img/menu/etc/profile-gold.jpg",
         "/assets/img/menu/etc/profile-shampan.jpg",
@@ -206,6 +208,7 @@
         "/assets/img/menu/slim/test/slim-transp-025.jpg",
         "/assets/img/menu/slim/test/slim-transp-05.jpg",
         "/assets/img/models/eco/eco1-100-2-size.jpg",
+        "/assets/img/models/premium/h13-240-4-size.jpg",
         "/assets/img/ui/logo-header.png"
       ],
       "patterns": []
@@ -283,7 +286,9 @@
     "/assets/img/menu/etc/dsp-venge.jpg": "1ac879e92eb2de0a19d2027cc06eceeb07f29102",
     "/assets/img/menu/etc/dsp-white.jpg": "3948111a542c90559e33d1037aa94d17c88ded3e",
     "/assets/img/menu/etc/dsp-yablonya.jpg": "784fde38c728b2dded1e287978a1f587ef2642fc",
+    "/assets/img/menu/etc/leg-100.jpg": "37dea278566408529d4ac63c8247c79e507a91b2",
     "/assets/img/menu/etc/leg-27.jpg": "fbfa5ce48f68fed71b8cdba3a7bb8fc396a8ff9a",
+    "/assets/img/menu/etc/leg-47.jpg": "d1c20a138769ce496463f42480abe46d27b4ed8f",
     "/assets/img/menu/etc/profile-bronze.jpg": "1a4d69506aa62ba3faf5336c7323cf11cf5f24f7",
     "/assets/img/menu/etc/profile-gold.jpg": "98505779eb93feacbfe18781d12bfc642da6e2b8",
     "/assets/img/menu/etc/profile-shampan.jpg": "3abbf65cfbf81dd3207127f07c98c500dd289171",
@@ -390,10 +395,11 @@
     "/assets/img/menu/slim/test/slim-transp-025.jpg": "14dd165697ed14653b258e03a9cb65101f0ee99e",
     "/assets/img/menu/slim/test/slim-transp-05.jpg": "403148e7ddf9155ea0db069a69904aeddc10c6ba",
     "/assets/img/models/eco/eco1-100-2-size.jpg": "42363dc5434110aa964c5149cdce150069741c54",
+    "/assets/img/models/premium/h13-240-4-size.jpg": "de01f860bad9955dbc47617bc2a4da5a13108408",
     "/assets/img/ui/logo-header.png": "213f15b14b85eb0d82a65e2de1c77d1c5fb324d9",
     "/favicon.ico": "1166bd03f0149df756755e5a847980157b8ed1ba",
-    "/index.html": "98b5cf0263ddc98266aea1985a936c8fdf81ecc2",
-    "/main.36e8b1f050362c12.js": "8354948df632ad1e72e6e5302351750061418b34",
+    "/index.html": "b2e43970fd4f633f71f12b220be963f4604515f4",
+    "/main.a18c2f8c3ca75a95.js": "3a0e4504904af5c6b8774eb95f4ff1b904fd1ed1",
     "/manifest.webmanifest": "5a73e3a0404e9100595413997fed68fee0e54027",
     "/polyfills.2f6e5a7564b45ad8.js": "3fe34883936d6fa848acd01f2e1cbb9d41003701",
     "/runtime.253918c472fdf2f4.js": "1b7e5b3021be0be3a346d6bf8da6cc8a045d5835",
